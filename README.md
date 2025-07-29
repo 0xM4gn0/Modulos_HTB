@@ -19,8 +19,7 @@ El objetivo es ayudar a las personas que les interese la ciberseguridad a **apre
 | Introduction To Networking | 
 | Windows Fundamentals | 
 | Introduction To Active Directory |  
-| Introduction To Web Applications |  
-| Web Request | 
+| Introduction To Web Applications |   
 ---
 
 ## 🛠 Herramientas recomendadas
