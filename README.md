@@ -12,12 +12,11 @@ El objetivo es ayudar a las personas que les interese la ciberseguridad a **apre
 | Módulos Tier 0 |
 |--------|
 | Linux Fundamentals | 
+| Windows Fundamentals |
 | Networking Fundamentals | 
 | Web Requests | 
-| Pentesting Basics | 
-| Linux Fundamentals | 
-| Introduction To Networking | 
-| Windows Fundamentals | 
+| Pentesting Basics |  
+| Introduction To Networking |  
 | Introduction To Active Directory |  
 | Introduction To Web Applications |   
 ---
