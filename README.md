@@ -9,8 +9,8 @@ El objetivo es ayudar a las personas que les interese la ciberseguridad a **apre
 
 ## 📖 Índice de módulos
 
-| Módulo | Descripción | Enlace |
-|--------|-------------|--------|
+| Módulo | Descripción| 
+|--------|-------------|
 | Linux Fundamentals | Conceptos básicos de Linux para pentesting |
 | Networking Fundamentals | Fundamentos de redes |
 | Web Requests | Introducción a peticiones HTTP y análisis |
