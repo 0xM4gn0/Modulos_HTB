@@ -9,7 +9,7 @@ El objetivo es ayudar a las personas que les interese la ciberseguridad a **apre
 
 ## 📖 Índice de módulos
 
-| Módulo Tier 0 |
+| Módulos Tier 0 |
 |--------|
 | Linux Fundamentals | 
 | Networking Fundamentals | 
