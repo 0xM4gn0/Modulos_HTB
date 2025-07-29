@@ -9,13 +9,18 @@ El objetivo es ayudar a las personas que les interese la ciberseguridad a **apre
 
 ## 📖 Índice de módulos
 
-| Módulo | Descripción| 
-|--------|-------------|
-| Linux Fundamentals | Conceptos básicos de Linux para pentesting |
-| Networking Fundamentals | Fundamentos de redes |
-| Web Requests | Introducción a peticiones HTTP y análisis |
-| Pentesting Basics | Conceptos básicos de pruebas de penetración | 
-
+| Módulo |
+|--------|
+| Linux Fundamentals | 
+| Networking Fundamentals | 
+| Web Requests | 
+| Pentesting Basics | 
+| Linux Fundamentals | 
+| Introduction To Networking | 
+| Windows Fundamentals | 
+| Introduction To Active Directory |  
+| Introduction To Web Applications |  
+| Web Request | 
 ---
 
 ## 🛠 Herramientas recomendadas
