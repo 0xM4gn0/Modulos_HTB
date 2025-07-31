@@ -15,12 +15,15 @@ El objetivo es ayudar a las personas que les interese la ciberseguridad a **apre
 |--------|
 | Linux Fundamentals | 
 | Windows Fundamentals |
-| Networking Fundamentals | 
-| Web Requests | 
+| Web Requesst |
+| Using the Metasploit Framework |
+| Introduction To Web Applications |
+| Intro to Network Traffic Analysis |
+| Networking Foundations | 
 | Pentesting Basics |  
-| Introduction To Networking |  
-| Introduction To Active Directory |  
-| Introduction To Web Applications |   
+| Introduction to Information Security |
+| Introduction to Penetration Testing |
+| Pentest in a Nutshell |
 ---
 
 ## 🛠 Herramientas recomendadas
