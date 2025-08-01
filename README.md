@@ -15,7 +15,7 @@ El objetivo es ayudar a las personas que les interese la ciberseguridad a **apre
 |--------|
 | Linux Fundamentals ✅| 
 | Windows Fundamentals ✅|
-| Web Requesst |
+| Web Request ✅|
 | Using the Metasploit Framework ✅|
 | Introduction To Web Applications |
 | Intro to Network Traffic Analysis |
