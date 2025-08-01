@@ -13,15 +13,15 @@ El objetivo es ayudar a las personas que les interese la ciberseguridad a **apre
 
 | Módulos Tier 0 |
 |--------|
-| Linux Fundamentals | 
-| Windows Fundamentals |
+| Linux Fundamentals ✅| 
+| Windows Fundamentals ✅|
 | Web Requesst |
-| Using the Metasploit Framework |
+| Using the Metasploit Framework ✅|
 | Introduction To Web Applications |
 | Intro to Network Traffic Analysis |
-| Networking Foundations | 
+| Networking Foundations ✅| 
 | Pentesting Basics |  
-| Introduction to Information Security |
+| Introduction to Information Security ✅|
 | Introduction to Penetration Testing |
 | Pentest in a Nutshell |
 ---
