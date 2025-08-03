@@ -17,7 +17,7 @@ El objetivo es ayudar a las personas que les interese la ciberseguridad a **apre
 | Windows Fundamentals ✅|
 | Web Request ✅|
 | Using the Metasploit Framework ✅|
-| Introduction To Web Applications |
+| Introduction To Web Applications ✅ |
 | Intro to Network Traffic Analysis |
 | Networking Foundations ✅| 
 | Pentesting Basics |  
