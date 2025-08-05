@@ -18,9 +18,8 @@ El objetivo es ayudar a las personas que les interese la ciberseguridad a **apre
 | Web Request ✅|
 | Using the Metasploit Framework ✅|
 | Introduction To Web Applications ✅ |
-| Intro to Network Traffic Analysis |
+| Intro to Network Traffic Analysis ✅|
 | Networking Foundations ✅| 
-| Pentesting Basics |  
 | Introduction to Information Security ✅|
 | Introduction to Penetration Testing |
 | Pentest in a Nutshell |
