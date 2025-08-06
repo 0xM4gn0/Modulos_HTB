@@ -21,7 +21,7 @@ El objetivo es ayudar a las personas que les interese la ciberseguridad a **apre
 | Intro to Network Traffic Analysis ✅|
 | Networking Foundations ✅| 
 | Introduction to Information Security ✅|
-| Introduction to Penetration Testing |
+| Introduction to Penetration Testing ✅|
 | Pentest in a Nutshell |
 ---
 
